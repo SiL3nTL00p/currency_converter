@@ -2,17 +2,12 @@
 
 > *“It’s your one-stop solution to all your currency conversions.”*
 
-![Vitta Exchange Logo](./vitta_exchange_logo.jpeg)
-
--
-
 ## 🌍 Overview
 
 **Vitta Exchange** is a modern, user-centric currency conversion web app that makes real-time exchange rates beautifully accessible. Designed with elegant UI, live flag integration, and seamless responsiveness, it provides a hassle-free experience for converting currencies on the fly.
 
 Whether you're planning a trip abroad, tracking forex rates, or just curious — Vitta Exchange has you covered.
 
--
 
 ## 🧠 Features
 
@@ -23,7 +18,6 @@ Whether you're planning a trip abroad, tracking forex rates, or just curious —
 - 📱 Fully responsive and mobile-friendly
 - 🌙 Dark-themed interface for comfortable viewing
 
--
 
 ## 📸 Screenshots
 
@@ -33,7 +27,6 @@ Whether you're planning a trip abroad, tracking forex rates, or just curious —
 ### Currency Converter UI
 ![App Screenshot](./vitta_exchange_logo.jpeg)
 
--
 
 ## 🛠️ Technologies Used
 
