@@ -22,10 +22,10 @@ Whether you're planning a trip abroad, tracking forex rates, or just curious —
 ## 📸 Screenshots
 
 ### Homepage
-![Background](./website%20background.webp)
+![Background](currency_converter/ccapp/Screenshot 2025-07-15 at 7.27.45 AM.png)
 
 ### Currency Converter UI
-![App Screenshot](./vitta_exchange_logo.jpeg)
+![App Screenshot](currency_converter/ccapp/Screenshot 2025-07-15 at 7.28.07 AM.png)
 
 
 ## 🛠️ Technologies Used
