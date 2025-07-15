@@ -22,10 +22,10 @@ Whether you're planning a trip abroad, tracking forex rates, or just curious —
 ## 📸 Screenshots
 
 ### Homepage
-![Background](./currency_converter/ccapp/Screenshot 2025-07-15 at 7.27.45 AM.png)
+![Background](./ccapp/Screenshot 2025-07-15 at 7.27.45 AM.png)
 
 ### Currency Converter UI
-![App Screenshot](./currency_converter/ccapp/Screenshot 2025-07-15 at 7.28.07 AM.png)
+![App Screenshot](./ccapp/Screenshot 2025-07-15 at 7.28.07 AM.png)
 
 
 ## 🛠️ Technologies Used
@@ -38,8 +38,6 @@ Whether you're planning a trip abroad, tracking forex rates, or just curious —
 ---
 
 ## 🚀 Getting Started
-
-### 1. Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/vitta-exchange.git
