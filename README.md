@@ -4,7 +4,7 @@
 
 ![Vitta Exchange Logo](./vitta_exchange_logo.jpeg)
 
----
+-
 
 ## 🌍 Overview
 
@@ -12,7 +12,7 @@
 
 Whether you're planning a trip abroad, tracking forex rates, or just curious — Vitta Exchange has you covered.
 
----
+-
 
 ## 🧠 Features
 
@@ -23,7 +23,7 @@ Whether you're planning a trip abroad, tracking forex rates, or just curious —
 - 📱 Fully responsive and mobile-friendly
 - 🌙 Dark-themed interface for comfortable viewing
 
----
+-
 
 ## 📸 Screenshots
 
@@ -33,7 +33,7 @@ Whether you're planning a trip abroad, tracking forex rates, or just curious —
 ### Currency Converter UI
 ![App Screenshot](./vitta_exchange_logo.jpeg)
 
----
+-
 
 ## 🛠️ Technologies Used
 
@@ -52,6 +52,7 @@ Whether you're planning a trip abroad, tracking forex rates, or just curious —
 git clone https://github.com/yourusername/vitta-exchange.git
 cd vitta-exchange
 You can simply open index.html in your web browser
+
 
 📁 Project Structure
 
