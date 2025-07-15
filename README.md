@@ -22,11 +22,12 @@ Whether you're planning a trip abroad, tracking forex rates, or just curious —
 ## 📸 Screenshots
 
 ### Homepage
-![Background](./ccapp/Screenshot 2025-07-15 at 7.27.45 AM.png)
+<img width="1448" height="824" alt="Screenshot 2025-07-15 at 7 27 45 AM" src="https://github.com/user-attachments/assets/4510a302-6f8d-4ff7-82d1-13f9e4fcdc87" />
+
+
 
 ### Currency Converter UI
-![App Screenshot](./ccapp/Screenshot 2025-07-15 at 7.28.07 AM.png)
-
+<img width="1448" height="824" alt="Screenshot 2025-07-15 at 7 27 45 AM" src="https://github.com/user-attachments/assets/7566aff0-98ac-4e7b-81eb-288777eaab17" />
 
 ## 🛠️ Technologies Used
 
